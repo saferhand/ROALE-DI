@@ -3,6 +3,7 @@
 
 Please cite:
 
+```
 @article{zhang2022reinforcement,
   title={Reinforcement Online Active Learning Ensemble for Drifting Imbalanced Data Streams},
   author={Zhang, Hang and Liu, Weike and Liu, Qingbao},
@@ -13,3 +14,4 @@ Please cite:
   year={2022},
   publisher={IEEE Computer Society}
 }
+```
